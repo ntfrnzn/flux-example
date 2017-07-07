@@ -14,7 +14,7 @@ spec:
     spec:
       containers:
       - name: helloworld
-        image: quay.io/ntfrnzn/helloworld:master-b000003
+        image: quay.io/ntfrnzn/helloworld:master-b000004
         args:
         - -msg=Ahoy
         ports:
