@@ -1,0 +1,1 @@
+{"jobID":"16244aec-432d-9811-3d14-731ecc1df26a","spec":{"type":"image","cause":{"Message":"","User":""},"spec":{}},"result":{"default/helloworld":{"Status":"success","PerContainer":[{"Container":"sidecar","Current":"quay.io/weaveworks/sidecar:master-a000001","Target":"quay.io/weaveworks/sidecar:master-a000002"}]}}}
