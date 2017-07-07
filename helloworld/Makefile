@@ -1,7 +1,7 @@
 .PHONY: all
 all: .helloworld
 
-REV=b000002
+REV=b000003
 
 .helloworld: helloworld-linux-amd64 Dockerfile
 	docker build -t quay.io/ntfrnzn/helloworld:master-${REV} .
