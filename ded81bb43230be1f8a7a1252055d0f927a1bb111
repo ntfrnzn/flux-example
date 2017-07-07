@@ -1,0 +1,1 @@
+{"jobID":"ac5f2bfe-5d45-15fa-b723-0de17f8ea726","spec":{"type":"image","cause":{"Message":"","User":""},"spec":{}},"result":{"default/helloworld":{"Status":"success","PerContainer":[{"Container":"helloworld","Current":"quay.io/ntfrnzn/helloworld:master-b000003","Target":"quay.io/ntfrnzn/helloworld:master-b000004"}]}}}
