@@ -15,7 +15,7 @@ spec:
       containers:
       - ports:
         - containerPort: 80
-        image: quay.io/ntfrnzn/helloworld:master-c000009
+        image: quay.io/ntfrnzn/helloworld:master-d000010
         args:
         - -msg=Ahoy
         name: helloworld
